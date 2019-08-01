@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "yarn tsc -p ."
+  },
+  "dependencies": {
+    "codechain-keystore-cli": "^0.7.0",
+    "codechain-sdk": "^1.2.1",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
