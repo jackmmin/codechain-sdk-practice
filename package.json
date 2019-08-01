@@ -1,0 +1,24 @@
+{
+  "name": "codechain-sdk-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "codechain-keystore-cli": "^0.7.0",
+    "codechain-sdk": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackmmin/codechain-sdk-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackmmin/codechain-sdk-practice/issues"
+  },
+  "homepage": "https://github.com/jackmmin/codechain-sdk-practice#readme"
+}
